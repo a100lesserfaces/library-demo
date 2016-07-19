@@ -1,0 +1,4 @@
+src/liblibrary_demo_la-library_demo.lo: src/library_demo.cpp \
+ include/library_demo.h
+
+include/library_demo.h:

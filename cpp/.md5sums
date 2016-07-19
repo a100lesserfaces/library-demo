@@ -1,0 +1,8 @@
+99c3829d74b2e6870b1a7d1d68403e3f  include/library_demo.h
+8bfcd22353c3a57fee561ad86ee2a56b  reconf
+e6b080efc01a9b47cd7b1465d92c30cc  library_demo.pc.in
+b1550154b447fabf99dce23163be1d1e  src/library_demo.cpp
+988750e7efaf71e094db30bf7679da6d  configure.ac
+a601e2919cbd9b34e1c9c704c39fbc50  Makefile.am
+9e064381b12175e7eab39843260c81ec  Makefile.am.ide
+b87651ea3565402473fb088004430fbf  build.sh

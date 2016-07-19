@@ -1,0 +1,11 @@
+prefix=/var/redhawk/sdr/dom/deps/library_demo
+exec_prefix=${prefix}/cpp
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: library_demo
+Description:
+Requires: 
+Version: 1.0.0
+Libs: -L${libdir} -llibrary_demo
+Cflags: -I${includedir}
